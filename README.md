@@ -1,7 +1,1 @@
-# ESE5023_Assignments_12643021
-
-Comemnts on HW1 from Liyl(100/100)
-
-GOOD FORMAL IN YOU CODE!(+2p)
-
-1-5: You DON'T answer which number(s) yields the maximum and minimum of Total_solutions.(-2p)
+# ESE5023\_Assignments\_12643021Comemnts on HW1 from Liyl(100/100)GOOD FORMAL IN YOU CODE!(+2p)1-5: You DON'T answer which number(s) yields the maximum and minimum of Total\_solutions.(-2p)HW2 from Lijh（101/100）第二题和第四题完成度较好，第三题虽然代码框架较完整，但后半部分对气候态和异常值的统计定义理解不准确(-1)第四题分析比较深入，解释很清晰（+2）
